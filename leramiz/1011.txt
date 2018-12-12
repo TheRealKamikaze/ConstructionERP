@@ -1,0 +1,4 @@
+Salary :10000
+Age :34
+Experience :7
+Gender :male

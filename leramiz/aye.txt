@@ -1,0 +1,13 @@
+echo '<div class="row">
+						  				  <div class="col-md-6">
+												<div class="propertie-item set-bg" data-setbg="'.$row['projectImage'].'">
+													<div class="sale-notic">'.$row['architectName'].'</div>
+													<div class="propertie-info text-white">
+														<div class="info-warp">
+															<h5>'.$row['projectName'].'</h5>
+															<p><i class="fa fa-map-marker"></i> '.$row['projectLocation'].'</p>
+														</div>
+														<div class="price">$'.$row['projectPrice'].'</div>
+													</div>
+												</div>
+										  </div>';
